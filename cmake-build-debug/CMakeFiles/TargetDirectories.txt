@@ -1,3 +1,0 @@
-C:/Users/Asus/OneDrive/Desktop/Workspace/c++/CLion/Olp/BaiTap/InfixToPostfix/cmake-build-debug/CMakeFiles/InfixToPostfix.dir
-C:/Users/Asus/OneDrive/Desktop/Workspace/c++/CLion/Olp/BaiTap/InfixToPostfix/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Asus/OneDrive/Desktop/Workspace/c++/CLion/Olp/BaiTap/InfixToPostfix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
